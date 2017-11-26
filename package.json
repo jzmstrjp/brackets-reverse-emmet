@@ -1,0 +1,23 @@
+{
+	"name": "brackets-reverse-emmet",
+	"title": "Reverse Emmet",
+	"description": "The reverse function of Emmet's \"Expand Abbreviation\". Returns HTML of selection to abbreviation.",
+	"homepage": "https://github.com/jzmstrjp/brackets-reverse-emmet",
+	"version": "0.0.1",
+	"keywords": ["html","tag","emmet"],
+	"author": "jzmstrjp",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.8.0"
+	},
+	"i18n": [
+		"en",
+		"ja"
+	],
+	"package-i18n":{
+		"ja":{
+			"description": "Emmetの逆の機能です。選択範囲のHTMLを省略記法に戻します。",
+			"title": "逆Emmet"
+		}
+	}
+}
